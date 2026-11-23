@@ -1,0 +1,4 @@
+# 只允許三支對外端點與 shop.json
+<FilesMatch "^(_lib\.php|.*\.sqlite|.*\.log)$">
+  Require all denied
+</FilesMatch>

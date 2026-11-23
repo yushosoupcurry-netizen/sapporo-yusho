@@ -1,0 +1,6 @@
+dist/
+dist-artifact/
+dist-pages/
+__pycache__/
+*.pyc
+.DS_Store
